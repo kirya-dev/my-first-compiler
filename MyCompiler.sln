@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCompiler", "MyCompiler\MyCompiler.csproj", "{994B6C83-C356-4570-AED6-7DE2C9FA8160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994B6C83-C356-4570-AED6-7DE2C9FA8160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994B6C83-C356-4570-AED6-7DE2C9FA8160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994B6C83-C356-4570-AED6-7DE2C9FA8160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994B6C83-C356-4570-AED6-7DE2C9FA8160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BCA4907-95BD-4299-A7FB-E4D038FB54F3}
+	EndGlobalSection
+EndGlobal
